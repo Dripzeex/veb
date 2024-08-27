@@ -1,0 +1,20 @@
+body {
+  background-image: linear-gradient(to right, #434372, #7575b5);
+  color: white;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.column {
+  width: 50%;
+  text-align: center;
+}
+
+h2, h3 {
+  margin: 0;
+}
